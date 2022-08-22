@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1744674304</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup_M.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\test.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port_PBcfg.o</file>
+      <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\TM4C123GH6.icf</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tlv.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\tm4c123gh6pm_registers.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\IntCtrl.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Dio_PBcfg.pbi</file>
+      <file>$PROJ_DIR$\Timer_Reg.h</file>
+      <file>$PROJ_DIR$\Timer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\IntCtrl.pbi</file>
+      <file>$PROJ_DIR$\Timer.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\IntCtrl_Lcfg.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup_M.o</file>
+      <file>$PROJ_DIR$\Dio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Dio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\IntCtrl_Lcfg.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Dio.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Det.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Det.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port_PBcfg.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer.pbi</file>
+      <file>$PROJ_DIR$\IntCtrl.h</file>
+      <file>$PROJ_DIR$\IntCtrl_Cfg.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Dio_Cfg.h</file>
+      <file>$PROJ_DIR$\Port_PBcfg.c</file>
+      <file>$PROJ_DIR$\Dio_Regs.h</file>
+      <file>$PROJ_DIR$\Platform_Types.h</file>
+      <file>$PROJ_DIR$\IntCtrl_Types.h</file>
+      <file>$PROJ_DIR$\IntCtrl_Regs.h</file>
+      <file>$PROJ_DIR$\Port_Cfg.h</file>
+      <file>$PROJ_DIR$\Port_Regs.h</file>
+      <file>$PROJ_DIR$\Port.c</file>
+      <file>$PROJ_DIR$\Std_Types.h</file>
+      <file>$PROJ_DIR$\IntCtrl.c</file>
+      <file>$PROJ_DIR$\Port.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Dio_PBcfg.o</file>
+      <file>$PROJ_DIR$\IntCtrl_Lcfg.c</file>
+      <file>$PROJ_DIR$\Dio_PBcfg.c</file>
+      <file>$PROJ_DIR$\Det.c</file>
+      <file>$PROJ_DIR$\Det.h</file>
+      <file>$PROJ_DIR$\Common_Macros.h</file>
+      <file>$PROJ_DIR$\Compiler.h</file>
+      <file>$PROJ_DIR$\cstartup_M.c</file>
+      <file>$PROJ_DIR$\Dio.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 12 43 52 37</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13 12 43 52 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 4 17 26 22 46 10 21 23 25 3 29 5 8 6 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 43 52 37 18 34 45 40 51 31 32 39 38 13 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 43 52 37 18 34 45 40 51 31 32 39 38 13 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Port_PBcfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45 43 52 37 40 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45 43 52 37 40 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Port.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45 43 52 37 40 51 41 50</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45 43 52 37 40 51 41 50</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\IntCtrl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31 43 52 37 32 39 38 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31 43 52 37 32 39 38 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\IntCtrl_Lcfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32 39 38 43 52 37 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32 39 38 43 52 37 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Dio_PBcfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Det.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50 43 52 37</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 43 52 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cstartup_M.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Dio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 43 52 37 34 36 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 43 52 37 34 36 51</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

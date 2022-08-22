@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dio.h": "c",
+        "common_macros.h": "c"
+    }
+}
